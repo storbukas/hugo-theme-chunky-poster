@@ -2,112 +2,112 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hugo Themes</title>
-    <link>https://storbukas.github.io/hugo-theme-chunky-poster/tags/</link>
+    <link>https://storbukas.github.io/tags/</link>
     <description>Recent content in Tags on Hugo Themes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2020 Lars Erik Storbukås</copyright>
     <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://storbukas.github.io/hugo-theme-chunky-poster/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://storbukas.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>gallery</title>
-      <link>https://storbukas.github.io/hugo-theme-chunky-poster/tags/gallery/</link>
+      <link>https://storbukas.github.io/tags/gallery/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://storbukas.github.io/hugo-theme-chunky-poster/tags/gallery/</guid>
+      <guid>https://storbukas.github.io/tags/gallery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lightbox</title>
-      <link>https://storbukas.github.io/hugo-theme-chunky-poster/tags/lightbox/</link>
+      <link>https://storbukas.github.io/tags/lightbox/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://storbukas.github.io/hugo-theme-chunky-poster/tags/lightbox/</guid>
+      <guid>https://storbukas.github.io/tags/lightbox/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>https://storbukas.github.io/hugo-theme-chunky-poster/tags/css/</link>
+      <link>https://storbukas.github.io/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://storbukas.github.io/hugo-theme-chunky-poster/tags/css/</guid>
+      <guid>https://storbukas.github.io/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://storbukas.github.io/hugo-theme-chunky-poster/tags/html/</link>
+      <link>https://storbukas.github.io/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://storbukas.github.io/hugo-theme-chunky-poster/tags/html/</guid>
+      <guid>https://storbukas.github.io/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://storbukas.github.io/hugo-theme-chunky-poster/tags/markdown/</link>
+      <link>https://storbukas.github.io/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://storbukas.github.io/hugo-theme-chunky-poster/tags/markdown/</guid>
+      <guid>https://storbukas.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://storbukas.github.io/hugo-theme-chunky-poster/tags/themes/</link>
+      <link>https://storbukas.github.io/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://storbukas.github.io/hugo-theme-chunky-poster/tags/themes/</guid>
+      <guid>https://storbukas.github.io/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>https://storbukas.github.io/hugo-theme-chunky-poster/tags/privacy/</link>
+      <link>https://storbukas.github.io/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://storbukas.github.io/hugo-theme-chunky-poster/tags/privacy/</guid>
+      <guid>https://storbukas.github.io/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>https://storbukas.github.io/hugo-theme-chunky-poster/tags/shortcodes/</link>
+      <link>https://storbukas.github.io/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://storbukas.github.io/hugo-theme-chunky-poster/tags/shortcodes/</guid>
+      <guid>https://storbukas.github.io/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>https://storbukas.github.io/hugo-theme-chunky-poster/tags/text/</link>
+      <link>https://storbukas.github.io/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://storbukas.github.io/hugo-theme-chunky-poster/tags/text/</guid>
+      <guid>https://storbukas.github.io/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>https://storbukas.github.io/hugo-theme-chunky-poster/tags/emoji/</link>
+      <link>https://storbukas.github.io/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://storbukas.github.io/hugo-theme-chunky-poster/tags/emoji/</guid>
+      <guid>https://storbukas.github.io/tags/emoji/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>https://storbukas.github.io/hugo-theme-chunky-poster/tags/index/</link>
+      <link>https://storbukas.github.io/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://storbukas.github.io/hugo-theme-chunky-poster/tags/index/</guid>
+      <guid>https://storbukas.github.io/tags/index/</guid>
       <description></description>
     </item>
     
