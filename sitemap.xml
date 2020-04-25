@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://storbukas.github.io/hugo-theme-chunky-poster/authors/hugo-authors/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://storbukas.github.io/hugo-theme-chunky-poster/authors/</loc>
     <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://storbukas.github.io/hugo-theme-chunky-poster/tags/gallery/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://storbukas.github.io/hugo-theme-chunky-poster/authors/hugo-authors/</loc>
     <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -145,6 +145,10 @@
   <url>
     <loc>https://storbukas.github.io/hugo-theme-chunky-poster/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://storbukas.github.io/hugo-theme-chunky-poster/authors/larserik-storbukas/</loc>
   </url>
   
   <url>
