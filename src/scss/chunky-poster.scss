@@ -1,8 +1,8 @@
 .homepage-image {
     @include media-breakpoint-up(lg) {
         position: absolute;
-        width: 400px;
-        right: 100px;
+        width: 600px;
+        right: 50px;
         margin-top: -75px;
     }
 }
