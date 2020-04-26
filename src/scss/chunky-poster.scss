@@ -3,7 +3,7 @@
         position: absolute;
         width: 400px;
         right: 100px;
-        top: 0;
+        margin-top: -75px;
     }
 }
 
@@ -83,6 +83,15 @@ ul.share.nav {
         padding: $nav-link-padding-y 0.2rem;
         text-align: center;
     }
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+main {
+  min-height: 70%;
 }
 
 footer a:not(.icons) {
